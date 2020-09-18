@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I'm Daria👋
 
-<!--
-**dariathehuman/dariathehuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm freelance frontend UI developer, also interesting and making UI/UX design
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on design for landing pages of cosmetic's store and interior design company
+- 🌱 I’m currently learning JS
+- 📫 Please contact me via [telegram](https://t.me/daria_nab) or [email](dariawebpro@gmail.com) to reach me
+- 💬 Ask me about anything, I am happy to help
+
+#### Knowledge
+
+![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![twig](https://img.shields.io/badge/-twig-green) ![BEM](https://img.shields.io/badge/-BEM-blue) ![SCSS](https://img.shields.io/badge/-SCSS-red) ![SASS](https://img.shields.io/badge/-sass-critical) ![js](https://img.shields.io/badge/-JS-yellow) 
+
+<img alt="GIF" src="https://raw.githubusercontent.com/dariathehuman/dariathehuman/master/Hermione.gif" width="450" />
+
