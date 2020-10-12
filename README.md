@@ -4,7 +4,7 @@ I'm freelance frontend UI developer, also interesting and making UI/UX design
 
 
 - 🔭 I’m currently working on design for landing pages of cosmetic's store and interior design company
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS, Angular
 - 📫 Please contact me via [telegram](https://t.me/daria_nab) or [email](mailto:dariawebpro@gmail.com) to reach me
 - 💬 Ask me about anything, I'm happy to help
 
