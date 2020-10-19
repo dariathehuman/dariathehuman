@@ -1,6 +1,8 @@
 ### Hi there I'm Daria👋
 
-I'm freelance frontend UI developer, also interesting and making UI/UX design
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/dariathehuman/dariathehuman/master/Hermione.gif" width="450" />
+
+I'm Frontend Developer, also interesting and making UI/UX design
 
 
 - 🔭 I’m currently working on the website for interior design company
@@ -11,5 +13,3 @@ I'm freelance frontend UI developer, also interesting and making UI/UX design
 #### Knowledge
 
 ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![twig](https://img.shields.io/badge/-twig-green) ![BEM](https://img.shields.io/badge/-BEM-blue) ![SCSS](https://img.shields.io/badge/-SCSS-red) ![SASS](https://img.shields.io/badge/-sass-critical) ![js](https://img.shields.io/badge/-JS-yellow) 
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/dariathehuman/dariathehuman/master/Hermione.gif" width="450" />
