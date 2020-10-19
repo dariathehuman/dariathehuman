@@ -12,5 +12,4 @@ I'm freelance frontend UI developer, also interesting and making UI/UX design
 
 ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![twig](https://img.shields.io/badge/-twig-green) ![BEM](https://img.shields.io/badge/-BEM-blue) ![SCSS](https://img.shields.io/badge/-SCSS-red) ![SASS](https://img.shields.io/badge/-sass-critical) ![js](https://img.shields.io/badge/-JS-yellow) 
 
-<img alt="GIF" src="https://raw.githubusercontent.com/dariathehuman/dariathehuman/master/Hermione.gif" width="450" />
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/dariathehuman/dariathehuman/master/Hermione.gif" width="450" />
