@@ -5,7 +5,7 @@
 I'm Frontend Developer, also interesting and making UI/UX design
 
 
-- 🔭 I’m currently working on the website for interior design company
+- 🔭 I’m Frontend Developer (Angular)
 - 🌱 I’m currently learning JS and Angular
 - 📫 Please contact me via [telegram](https://t.me/daria_nab) or [email](mailto:dariawebpro@gmail.com) to reach me
 - 💬 Ask me about anything, I'm happy to help
