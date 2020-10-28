@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dariathehuman/dariathehuman/master/Hermione.gif" width="450" />
 
-I'm Frontend Developer, also interesting and making UI/UX design
+I'm Frontend UI Developer, also interesting and making UI/UX design
 
 
 - 🌱 I’m currently learning JS and Angular
