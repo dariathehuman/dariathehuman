@@ -11,4 +11,4 @@ I'm Frontend UI Developer, also interesting and making UI/UX design
 
 #### Knowledge
 
-![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![twig](https://img.shields.io/badge/-twig-green) ![BEM](https://img.shields.io/badge/-BEM-blue) ![SCSS](https://img.shields.io/badge/-SCSS-red) ![SASS](https://img.shields.io/badge/-sass-critical) ![js](https://img.shields.io/badge/-JS-yellow) 
+![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![twig](https://img.shields.io/badge/-twig-green) ![BEM](https://img.shields.io/badge/-BEM-blue) ![SCSS](https://img.shields.io/badge/-SCSS-red) ![SASS](https://img.shields.io/badge/-sass-critical) ![js](https://img.shields.io/badge/-JS-yellow) ![Angular](https://img.shields.io/badge/-Angular-red)
