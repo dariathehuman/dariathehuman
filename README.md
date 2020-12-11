@@ -4,7 +4,7 @@
 
 I'm Frontend UI Developer, also interesting and making UI/UX design
 
-
+- 👩‍💻 I’m a Frontend Developer at [Picasel](https://picasel.agency/)
 - 🌱 I’m currently learning JS and Angular
 - 📫 Please contact me via [telegram](https://t.me/daria_nab) or [email](mailto:dariawebpro@gmail.com) to reach me
 - 💬 Ask me about anything, I'm happy to help
