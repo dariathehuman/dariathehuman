@@ -1,19 +1,19 @@
 <h1>Hi there 👋, I'm Daria</h1>
-<h3>Frontend UI Developer, also interesting and making UI/UX design</h3>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dariathehuman/dariathehuman/master/Hermione.gif" width="450" />
 
-- 🔭 I’m currently working in [Picasel](https://picasel.agency/)
+<h3>Frontend UI Developer, also interesting and making UI/UX design</h3>
 
-- 🌱 I’m currently learning **Angular, JS**
 
-- 👨‍💻 All of my projects are available at [dariaweb.pro](dariaweb.pro)
+🔭 I’m currently working in [Picasel](https://picasel.agency/)
 
-- 💬 Ask me about **anything, I'm happy to help**
+🌱 I’m currently learning **Angular, JS**
 
-- 📫 How to reach me **dariawebpro@gmail.com**
+👨‍💻 All of my projects are available at [dariaweb.pro](dariaweb.pro)
 
-- 📄 Know about my experiences [dariaweb.pro](dariaweb.pro)
+💬 Ask me about **anything, I'm happy to help**
+
+📫 How to reach me **dariawebpro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
