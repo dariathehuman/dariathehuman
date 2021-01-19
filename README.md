@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Angular, JS**
 
-👨‍💻 All of my projects are available at [dariaweb.pro](dariaweb.pro)
+👨‍💻 All of my projects are available at [dariaweb.pro](https://dariaweb.pro)
 
 💬 Ask me about **anything, I'm happy to help**
 
