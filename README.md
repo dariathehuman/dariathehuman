@@ -5,7 +5,7 @@
 <h3>Frontend UI Developer, also interesting and making UI/UX design</h3>
 
 
-🔭 I’m currently working in [Picasel](https://picasel.agency/)
+🔭 I’m currently working at [Picasel](https://picasel.agency/)
 
 🌱 I’m currently learning **Angular, JS**
 
