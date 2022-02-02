@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dariathehuman/dariathehuman/master/Hermione.gif" width="450" />
 
-<h3>Frontend UI Developer, also interesting and making UI/UX design</h3>
+<h3>Frontend UI Developer, also interested and making UI/UX design</h3>
 
 
 🔭 I’m currently working at [Picasel](https://picasel.agency/)
