@@ -7,7 +7,7 @@
 
 🔭 I’m currently working at [Picasel](https://picasel.agency/)
 
-🌱 I’m currently learning **Angular, JS**, TS**
+🌱 I’m currently learning **Angular, JS**, **TS
 
 👨‍💻 Part of my projects are available at [dariaweb.pro](https://dariaweb.pro)
 
