@@ -9,8 +9,6 @@
 
 🌱 I’m currently learning **Angular, JS, TS**
 
-👨‍💻 Part of my projects are available at [dariaweb.pro](https://dariaweb.pro)
-
 💬 Ask me about **anything, I'm happy to help**
 
 📫 How to reach me **dariawebpro@gmail.com**
