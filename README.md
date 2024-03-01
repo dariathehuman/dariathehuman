@@ -21,6 +21,9 @@
 <h3 align="left"><img src="https://assets-global.website-files.com/5b6106c192c3f985a0cb3273/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif" width="40"> Skills</h3>
 
 👩🏻‍💻 HTML, JavaScript, TypeScript
+
 ⚒ Angular
+
 💃🏻 SCSS, CSS
+
 🖼 Figma
