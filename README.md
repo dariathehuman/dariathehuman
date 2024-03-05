@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Daria</h1>
-<h3 align="center">Frontend Developer, also interested in making UI/UX design</h3>
+<h3 align="center">Frontend Developer by market and UI/UX designer by passion 🌚</h3>
 <hr>
 
 <img align="right" alt="GIF" src="https://debel.github.io/juggling/images/js-fail.gif" width="400" />
