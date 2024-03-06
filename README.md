@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Daria</h1>
-<h3 align="center">Frontend Developer by market and UI/UX designer by passion 🌚</h3>
-<hr>
+
+<h2 align="center">Frontend Developer by market and UI/UX designer by passion 🌚</h2>
 
 <img align="right" alt="GIF" src="https://debel.github.io/juggling/images/js-fail.gif" width="400" />
 
