@@ -12,7 +12,7 @@
 
 <p align="left">💬 Ask me about <strong>anything, I'm happy to help</strong></p>
 
-<p align="left">📫 Reach me via 
+<p align="left">📫 Contact me via 
   <a href="mailto:dariawebpro@gmail.com" target="blank">Email</a> or 
   <a href="https://linkedin.com/in/darianabatova" target="blank">Linked In</a> or 
   <a href="https://www.behance.net/dariathehuman" target="blank">Behance</a>
