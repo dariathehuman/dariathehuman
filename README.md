@@ -33,3 +33,5 @@
 💃🏻 SCSS, CSS
 
 🖼 Figma
+
+💡 Problem Solving
