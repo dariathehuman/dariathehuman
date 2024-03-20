@@ -1,6 +1,6 @@
 <h1 align="center"> 🖖🏻 Hi there, I'm Daria</h1>
 
-<h2 align="center">Frontend Developer by market and UI/UX designer by passion 🌚</h2>
+<h2 align="center">Frontend Developer by market and UI/UX designer by passion ✨</h2>
 
 <img alt="GIF" align="right" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif" width="390" />
 
