@@ -1,4 +1,4 @@
-<h1 align="center"> 🖖🏻 Hi there, I'm Daria</h1>
+<h1 align="center">Hi there, I'm Daria 🖖🏻</h1>
 
 <h2 align="center">Frontend Developer by market and UI/UX designer by passion ✨</h2>
 
