@@ -4,7 +4,7 @@
 
 <img alt="GIF" align="right" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif" width="350" />
 
-<h3 align="left"><img src="https://lordicon.com/icons/wired/gradient/1957-maneki-cat.gif" width="40" height="40"> About me</h3>
+<h3 align="left"><img src="https://lordicon.com/icons/wired/gradient/1957-maneki-cat.gif" width="35"> About me</h3>
 
 <p align="left">👩🏻‍💻 I'm currently working at <a href="https://www.brainrocket.com/" target="blank">Brain Rocket</a>, shaping digital experiences</p>
 
