@@ -32,6 +32,6 @@
 
 💃🏻 SCSS, CSS
 
-🖼 Figma
+🖼 Figma, UI/UX
 
 💡 Problem Solving
