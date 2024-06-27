@@ -10,7 +10,7 @@
 
 <p align="left">🧚🏻‍♀️ Designing for the <a href="https://www.youtube.com/c/platinumtechtalks" target="blank">Platinum Dev Youtube Channel</a>, crafting visually compelling content</p>
 
-<p align="left">📚 Learning Angular, JavaScript, and TypeScript to deepen technical expertise.</p>
+<p align="left">📚 Learning Angular, JS, and TS to deepen technical expertise.</p>
 
 <p align="left">💬 Happy to help with any questions you may have </strong></p>
 
