@@ -6,7 +6,7 @@
 
 <h3 align="left"><img src="https://lordicon.com/icons/wired/gradient/1957-maneki-cat.gif" width="35"> About me</h3>
 
-<p align="left">👩🏻‍💻 I'm currently working at <a href="https://www.brainrocket.com/" target="blank">Brain Rocket</a>, shaping digital experiences</p>
+<p align="left">👩🏻‍💻 I'm currently working at <a href="https://www.brainrocket.com/" target="blank">Brain Rocket</a>, orchestrating chaos as Team Lead</p>
 
 <p align="left">🧚🏻‍♀️ Designing for the <a href="https://www.youtube.com/c/platinumtechtalks" target="blank">Platinum Dev Youtube Channel</a>, crafting visually compelling content</p>
 
