@@ -4,7 +4,7 @@
 
 <img alt="GIF" align="right" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif" width="358" />
 
-<h3 align="left"><img src="https://lordicon.com/icons/wired/gradient/1957-maneki-cat.gif" width="35"> About me</h3>
+<h3 align="left">🔖 About me</h3>
 
 <p align="left">👩🏻‍💻 I'm currently working as a Frontend Team Lead at <a href="https://www.brainrocket.com/" target="blank">Brain Rocket</a>, orchestrating chaos</p>
 
@@ -24,7 +24,7 @@
 
 <img align="right" alt="GIF" src="https://debel.github.io/juggling/images/js-fail.gif" width="358" />
 
-<h3 align="left"><img src="https://assets-global.website-files.com/5b6106c192c3f985a0cb3273/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif" width="35"> Skills</h3>
+<h3 align="left">🪄 Skills</h3>
 
 👩🏻‍💻 HTML, JavaScript, TypeScript
 
